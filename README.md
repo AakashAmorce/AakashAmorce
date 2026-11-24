@@ -35,11 +35,11 @@ I ran failure analysis on field failures, built test rigs, and added verificatio
 #### Activity across all repos
 
 <!-- STATS:START -->
-**1,054 commits in the last 12 months.** The count covers the 30 repos I own, public and private.
+**1,059 commits in the last 12 months.** The count covers the 30 repos I own, public and private.
 
 | Project | Commits (12 mo) | Last commit |
 |---|---:|---|
-| Limnal Research | 724 | 2026-11-20 |
+| Limnal Research | 729 | 2026-11-23 |
 | TPO Watch | 134 | 2026-11-21 |
 | Lineup | 59 | 2026-06-02 |
 | Rent Facts | 54 | 2026-08-17 |
@@ -48,7 +48,7 @@ I ran failure analysis on field failures, built test rigs, and added verificatio
 
 Languages in the repos I committed to, by amount of code: TypeScript 50% · Python 40% · HTML 3% · PLpgSQL 3% · JavaScript 2% · CSS 2%
 
-_Updated Nov 21, 2026 by a GitHub Action. It counts commits and languages, and it publishes only the totals above._
+_Updated Nov 24, 2026 by a GitHub Action. It counts commits and languages, and it publishes only the totals above._
 <!-- STATS:END -->
 
 ---
